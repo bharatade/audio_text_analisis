@@ -20,10 +20,10 @@ LANG_ID = LANG_CODE_MAP.get(TARGET_LANG)
 
 # -------- Database Config --------
 DB_CONFIG = {
-    "server": "192.168.1.13\\sql2019",
-    "database": "Zomato",
-    "username": "Bharat.ade",
-    "password": "Gateway@2023"
+    "server": "xxxx",
+    "database": "xxxx",
+    "username": "xxxx",
+    "password": "xxx"
 }
 
 # -------- Logging --------
