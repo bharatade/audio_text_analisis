@@ -1,0 +1,28 @@
+2025-08-21 14:42:53,522 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 14:42:53,894 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 14:42:54,475 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 14:42:54,497 - INFO - Processed: SPBU01_4056__8602479979_20250503-113836-all.mp3 at 2025-08-21 14:42:54.497422
+2025-08-21 14:42:56,640 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 14:42:57,253 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 14:42:57,528 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-21 14:42:57,555 - INFO - Processed: SPBU01_4055_6688818_919528751199_20250507-104322-all.mp3 at 2025-08-21 14:42:57.555060
+2025-08-29 11:19:46,000 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 11:19:46,573 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 11:19:47,041 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 11:19:47,067 - INFO - Processed: SPBU01_4011_6688818_918097148963_20250729-144249-all.mp3 at 2025-08-29 11:19:47.067869
+2025-08-29 12:08:54,669 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:08:54,990 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:08:55,409 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:08:55,442 - INFO - Processed: SPBU01_4019_6688818_916290125171_20250725-115341-all.mp3 at 2025-08-29 12:08:55.442571
+2025-08-29 12:09:06,661 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:09:06,995 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:09:07,349 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:09:07,376 - INFO - Processed: SPBU01_4032_6688818_916294992898_20250730-132406-all (1).mp3 at 2025-08-29 12:09:07.376395
+2025-08-29 12:10:12,711 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:10:13,156 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:10:13,391 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:10:13,417 - INFO - Processed: SPBU01_4019_6688818_8109471788_20250725-171147-all.mp3 at 2025-08-29 12:10:13.417105
+2025-08-29 12:10:51,225 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:10:51,719 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:10:52,119 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-08-29 12:10:52,152 - INFO - Processed: SPBU01_4014__9868855253_20250506-165406-all.mp3 at 2025-08-29 12:10:52.152515
